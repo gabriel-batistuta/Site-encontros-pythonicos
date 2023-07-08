@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Encontros Pythonicos</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-07-05T00:00:00-03:00</updated><entry><title>Primeiro Encontro</title><link href="/primeiro-encontro.html" rel="alternate"></link><published>2023-07-05T00:00:00-03:00</published><updated>2023-07-05T00:00:00-03:00</updated><author><name>Encontros Pythonicos</name></author><id>tag:None,2023-07-05:/primeiro-encontro.html</id><content type="html">&lt;p&gt;slides das apresentações:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="../downloads/instalacao-python.pdf"&gt;Instalando Python&lt;/a&gt;&lt;br&gt;
+&lt;a href="../downloads/pycharm.pdf"&gt;IDE Pycharm&lt;/a&gt;&lt;br&gt;
+&lt;a href="../downloads/venv-pip.pdf"&gt;Ambientes Virtuais e Instalação de Pacotes&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="foto encontro" src="../images/first-event/programacao.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;fotos:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="foto encontro" src="../images/first-event/foto01.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto02.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto03.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto05.jpg"&gt;&lt;/p&gt;</content><category term="docs"></category></entry></feed>

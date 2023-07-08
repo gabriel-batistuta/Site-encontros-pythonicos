@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Encontros Pythonicos - Encontros Pythonicos</title><link>/</link><description></description><lastBuildDate>Wed, 05 Jul 2023 00:00:00 -0300</lastBuildDate><item><title>Primeiro Encontro</title><link>/primeiro-encontro.html</link><description>&lt;p&gt;slides das apresentações:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="../downloads/instalacao-python.pdf"&gt;Instalando Python&lt;/a&gt;&lt;br&gt;
+&lt;a href="../downloads/pycharm.pdf"&gt;IDE Pycharm&lt;/a&gt;&lt;br&gt;
+&lt;a href="../downloads/venv-pip.pdf"&gt;Ambientes Virtuais e Instalação de Pacotes&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="foto encontro" src="../images/first-event/programacao.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;fotos:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="foto encontro" src="../images/first-event/foto01.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto02.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto03.jpg"&gt;
+&lt;img alt="foto encontro" src="../images/first-event/foto05.jpg"&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Encontros Pythonicos</dc:creator><pubDate>Wed, 05 Jul 2023 00:00:00 -0300</pubDate><guid isPermaLink="false">tag:None,2023-07-05:/primeiro-encontro.html</guid><category>docs</category></item></channel></rss>
